@@ -1,0 +1,38 @@
+# Dependency directories
+node_modules/
+venv/
+env/
+__pycache__/
+target/
+bin/
+
+# Compiled code
+*.class
+*.o
+*.so
+
+# Package and build directories
+dist/
+build/
+out/
+
+# Local configuration files
+.env
+
+# IDE specific files
+.idea/
+.vscode/
+*.swp
+*.swo
+
+# Operating system files
+.DS_Store
+
+# Log files
+*.log
+
+# Other common files to ignore
+*.tmp
+*.temp
+*.bak
+*.backup
